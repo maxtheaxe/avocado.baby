@@ -1,2 +1,3 @@
-# avocado.baby
-avocado, baby!
+# avocado, baby!
+
+the website for your favorite avocado subscription service
